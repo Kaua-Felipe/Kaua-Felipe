@@ -1,45 +1,33 @@
-## Olá! Eu sou o Kauã 👋
+[![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)](https://kauafelipe.vercel.app/)
+<h1 align="center">Hi 👋, I'm Kauã Felipe Alves</h1>
+<h3 align="center">Focando no aprendizado contínuo...</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<div>
-  <a href="https://github.com/Kaua-Felipe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaua-Felipe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Felipe&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Kauã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kauã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kauã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kauã-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Kauã-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-   <img align="center" alt="Kauã-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg">
-   <img align="center" alt="Kauã-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Kauã-JQuey" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Kauã-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-  <img align="center" alt="Kauã-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Kauã-Ionic" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="Kauã-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Kauã-VsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Kauã-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Kauã-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-  <img align="right" alt="Kauã-yoda" height="130" width="130" src="https://593d958c9e55088bf440f6d5.static-01.com/f/images/604242faf72d90bc64f694116b04b2f086e875bf.gif">
-</div>
-  
-  ##
-  
-<div> 
-  <a href="https://www.instagram.com/kauafelipeoficial191/" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:kauafelipeoficial191@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-f-a349571b9/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.facebook.com/kaua.felipe.9231712/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-  </a>
-  
-  ![Snake animation](https://github.com/Kaua-Felipe/Kaua-Felipe/blob/output/github-contribution-grid-snake.svg)
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaua-felipe&label=Profile%20views&color=0e75b6&style=flat" alt="kaua-felipe" /> </p>
+
+- 🔭 Atualmente estou trabalhando em [Clube da Árvore](https://clubedaarvore.netlify.app/pages/)
+
+- 🌱 Atualmente estou aprendendo **NextJs, React, Typescript e Criptografia**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://kauafelipe.vercel.app/](https://kauafelipe.vercel.app/)
+
+- 💬 Pergunte-me sobre **Desenvolvimento Front-End e ambiente NodeJs**
+
+- 📫 Como chegar até mim **kauafelipeoficial191@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kauã-f-a349571b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kauã-f-a349571b9" height="30" width="40" /></a>
+<a href="https://instagram.com/kauafelipe_alves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kauafelipe_alves" height="30" width="40" /></a>
+<a href="https://medium.com/@kauafelipeoficial191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kauafelipeoficial191" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kauafelipeofici1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kauafelipeofici1" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaua-felipe&show_icons=true&locale=en&layout=compact" alt="kaua-felipe" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaua-felipe&show_icons=true&locale=en" alt="kaua-felipe" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaua-felipe&" alt="kaua-felipe" /></p>
